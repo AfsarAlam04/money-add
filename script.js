@@ -1,5 +1,5 @@
 // script.js
-const API_BASE = "https://your-glitch-project.glitch.me";
+const API_BASE = "https://rectangular-ballistic-tractor.glitch.me";
 
 // Example: Fetch apps from backend
 async function loadApps() {
